@@ -79,7 +79,7 @@ A machine-learning project exploring house price prediction through data preproc
 
 I'm open to connecting with fellow developers, exploring interesting projects, and learning from others in the AI/ML community.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashwin-venu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-venu/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinvenu287@gmail.com)
 
 ---
