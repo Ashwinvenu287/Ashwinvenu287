@@ -72,6 +72,7 @@ A machine-learning project exploring house price prediction through data preproc
 
 **Tech:** Python · Pandas · Scikit-learn · XGBoost
 
+🔗 [View Repository](https://github.com/Ashwinvenu287/House-price-prediction)
 
 ---
 
